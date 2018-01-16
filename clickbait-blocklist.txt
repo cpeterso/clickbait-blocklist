@@ -24,3 +24,5 @@ zergnet.com
 ##.trc_rbox_container
 ##.trc_related_container
 ##.trc_spotlight_widget
+##div#digiteka_wrapper
+##div#ultima_wrapper
