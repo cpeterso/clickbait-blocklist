@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201708120000
+! Version: 201807280000
 ! Title: Clickbait Blocklist
 ! Homepage: https://github.com/cpeterso/clickbait-blocklist/
 ! License: http://creativecommons.org/publicdomain/zero/1.0/
@@ -18,9 +18,13 @@ revcontent.com
 taboola.com
 zemanta
 zergnet.com
+###ld-326-6498
+###ld_cli-0
 ##div[data-outbrain-url]
 ##.ezAdsense
+##.outbrain_widget_0
 ##.trc_elastic
 ##.trc_rbox_container
 ##.trc_related_container
 ##.trc_spotlight_widget
+##.vendor-outbrain
